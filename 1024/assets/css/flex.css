@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+    width: 500px;
+    height: 300px;
+    gap: 10px;
+    margin: 30px auto;
+    background: rebeccapurple;
+}
+
+.flex-item {
+
+    width: 80px;
+    height: 80px;
+    background: rgb(150, 20, 20);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
